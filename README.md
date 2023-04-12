@@ -1,2 +1,2 @@
-# zero_day
-# zero_day
+C-x C-f
+** This file is mandatory in project **
